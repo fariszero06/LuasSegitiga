@@ -96,5 +96,14 @@ public static void main(String[] args) {
 }
 
 
-```
+``` 
+</p>
+
+# Penjelasan:
+Program ini berjalan secara sekuensial tanpa menggunakan fungsi percabangan atau perulangan, dimana program akan mengeksekusi kode baris per baris dari atas kebawah. Program ini akan menerima input secara langsung dari user saat program berjalan. Sehingga kita membutuhkan class scanner yang sudah disediakan oleh java, untuk menggunakannya kita menulis sintak import java.util.Scanner; pada awal baris program nantinya didalam fungsi main() kita membuat objek baru dengan nama input yang mengacu pada class scanner tersebut. Ada tiga variabel yang akan kita gunakan untuk menampung nilai yaitu variabel a dan t dengan tipe integer (bilangan bulat) dan variabel luas dengan tipe double (bilangan desimal). </p>
+Pengguna akan memasukan nilai alas segitiga yang nilainya akan ditampung pada variabel a dan tinggi untuk variabel t. Selanjutnya akan dihitung luas segitiga bedasarkan rumus diatas yaitu luas=0.5*a*t; Kemudian pada sintak beris terakhir kita mencetak hasil dari perhitungan rumus luas segitiga tersebut. </p>
+
+Ini adalah output program yang sudah saya run: </p>
+![output](screenshot/output.png)
+
 
