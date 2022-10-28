@@ -10,7 +10,7 @@ Alas merupakan salah satu sisi segitiga, sedangkan tinggi adalah jarak ke titik 
 # Algoritma </p>
 Berikut ini adalah algoritma untuk menghitung luas segitiga: </p>
 
-<ul> Mulai </ul> </p>
+<li> Mulai </li> </p>
 <ul> Masukan alas segitiga </ul> </p>
 <ul> Masukan tinggi segitiga </ul> </p>
 <ul> Hitung luas segitiga = (0.5*(alas*tinggi)); </ul> </p>
