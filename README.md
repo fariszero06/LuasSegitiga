@@ -104,6 +104,12 @@ Program ini berjalan secara sekuensial tanpa menggunakan fungsi percabangan atau
 Pengguna akan memasukan nilai alas segitiga yang nilainya akan ditampung pada variabel a dan tinggi untuk variabel t. Selanjutnya akan dihitung luas segitiga bedasarkan rumus diatas yaitu luas=0.5*a*t; Kemudian pada sintak beris terakhir kita mencetak hasil dari perhitungan rumus luas segitiga tersebut. </p>
 
 Ini adalah output program yang sudah saya run: </p>
-![output](screenshot/output.png)
+![output](screenshot/output.png) </p>
+
+Saya memasukan alas dengan nilai 10 dan tinggi 20, maka program akan menghitung berdasarkan rumus luas segitiga yang kita buat, sehingga menghasilkan luas segitiga dengan nilai 100,0. </p>
+
+Sekian pembahasan singkat mengenai contoh program java menghitung luas segitiga. Semoga bermanfaat bagi teman-teman yang sedang belajar bahasa java. </p>
+[terimakasih](screenshot/terimakasih.jpeg) </p>
+
 
 
