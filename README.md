@@ -111,8 +111,7 @@ Saya memasukan alas dengan nilai 10 dan tinggi 20, maka program akan menghitung 
 Sekian pembahasan singkat mengenai contoh program java menghitung luas segitiga. Semoga bermanfaat bagi teman-teman yang sedang belajar bahasa java. </p>
 ![terimakasih](screenshot/terimakasih.jpeg) </p>
 
-| ------------------------------- |
-| Developer by: Faris Syahluthfi  |
+| Developer | by: Faris Syahluthfi  |
 
 ![faris](screenshot/faris.jpg) </p>
 
